@@ -1,9 +1,10 @@
 package step_definitions;
 
-import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
-import org.junit.Assert;
+import io.cucumber.java.en.When;
 import support.SupportFunctions;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.Given;
+import org.junit.Assert;
 
 public class Standard_stepDef {
 

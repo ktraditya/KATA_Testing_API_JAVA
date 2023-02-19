@@ -1,0 +1,10 @@
+{
+        "firstName": "Leo",
+        "lastName": "Hello",
+        "specialties": [
+            {
+                "id":1,
+                 "name": "dentistry"
+            }
+        ]
+    }
